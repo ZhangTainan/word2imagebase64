@@ -17,6 +17,12 @@
 
 ## 生成的文件结构示例
 
-输入文件：`documents/课前MR调配步骤.docx`
+输入文件：`documents/demo.docx`
+
 
 输出：
+documents/
+└── demo/
+├── demo.pdf
+├── img.jpg
+└── base64.txt
